@@ -1,0 +1,9 @@
+E:\Personal\alertnet\alertnetBackend\obj\Debug\net10.0\alertnetBackend.csproj.AssemblyReference.cache
+E:\Personal\alertnet\alertnetBackend\obj\Debug\net10.0\rpswa.dswa.cache.json
+E:\Personal\alertnet\alertnetBackend\obj\Debug\net10.0\alertnetBackend.GeneratedMSBuildEditorConfig.editorconfig
+E:\Personal\alertnet\alertnetBackend\obj\Debug\net10.0\alertnetBackend.AssemblyInfoInputs.cache
+E:\Personal\alertnet\alertnetBackend\obj\Debug\net10.0\alertnetBackend.AssemblyInfo.cs
+E:\Personal\alertnet\alertnetBackend\obj\Debug\net10.0\alertnetBackend.csproj.CoreCompileInputs.cache
+E:\Personal\alertnet\alertnetBackend\obj\Debug\net10.0\alertnetBackend.MvcApplicationPartsAssemblyInfo.cs
+E:\Personal\alertnet\alertnetBackend\obj\Debug\net10.0\alertnetBackend.MvcApplicationPartsAssemblyInfo.cache
+E:\Personal\alertnet\alertnetBackend\obj\Debug\net10.0\alertnetBackend.sourcelink.json
