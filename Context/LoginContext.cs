@@ -3,8 +3,9 @@ namespace alertnetBackend.Model;
 
 public class LoginContext:DbContext
 {
-    public LoginContext(DbContextOption<LoginContext> options):base(options)
-        public Dbset<Login>Login{get;set;}=null!;
-        public Dbset<Session>Session{get;set;}=null!;
-    }
-}
+    public LoginContext(DbContextOptions<LoginContext> options):base(options)
+    {}
+        public DbSet<Login>Login{get;set;}=null!;
+        public DbSet<Session>Session{get;set;}=null!;
+};
+

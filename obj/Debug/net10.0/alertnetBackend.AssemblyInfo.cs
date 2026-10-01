@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("alertnetBackend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3417104bf2616bd8b7116c6ed1d34424cb7e656e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7513d98f6b3bc41458469be904abe0a12247a477")]
 [assembly: System.Reflection.AssemblyProductAttribute("alertnetBackend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("alertnetBackend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
